@@ -1,4 +1,4 @@
-# 🤖 AI Agent with Google GenAI Function Calling
+# 🤖 AI Coding Agent with Google GenAI Function Calling
 
 A Python-based AI agent built using **Google GenAI** and the **Gemini 3.6 Flash** model. The project explores how an LLM can interact with the local environment by calling custom Python functions.
 
